@@ -10,16 +10,17 @@ Script ini sekali jalan langsung siap pakai di Ubuntu 20.04 / 22.04.
 
 1️⃣ Cara Pakai (SANGAT PENTING)
 
+```
 apt update && apt install -y curl
 bash install-vless-quota.sh
-
+```
 
 ---
 
 2️⃣ Script Auto Installer (1x Run)
 
 📄 install-vless-quota.sh
-
+```
 #!/bin/bash
 clear
 
@@ -179,20 +180,20 @@ echo ""
 echo "✅ INSTALLASI SELESAI"
 echo "Gunakan perintah: add-vless"
 echo "============================="
-
+```
 
 ---
 
 3️⃣ Perintah Penting Setelah Install
 
 Tambah User
-
+```
 add-vless
 
 Cek Log Quota
 
 cat /var/log/xray-quota.log
-
+```
 
 ---
 
