@@ -209,20 +209,3 @@ cat /var/log/xray-quota.log
 
 
 ---
-
-5️⃣ Mau Upgrade?
-
-Aku bisa buatkan:
-
-🔥 Traffic REAL per user (iptables owner)
-
-📆 Expired akun
-
-🌐 Panel Web
-
-🧪 Versi ringan VPS 512MB
-
-📱 Support Inject / Bug Host
-
-
-Tinggal bilang mau versi lanjutan atau premium 👍
